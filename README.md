@@ -15,3 +15,7 @@ Use the json cv project as base to generate diferent templates of cv with json
 - [plantillas de cv
   pinterest](https://co.pinterest.com/search/pins/?rs=ac&len=2&q=cv%20design&eq=cv&etslf=4006)
 
+
+- [themes](https://jsonresume.org/themes/)
+- [scrhema](https://jsonresume.org/schema/)
+- [Gitconnected](https://gitconnected.com/)
